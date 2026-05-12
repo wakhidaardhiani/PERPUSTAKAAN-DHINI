@@ -159,7 +159,6 @@ return array(
     'Database\\Seeders\\LoanStatusTableSeeder' => $baseDir . '/database/seeders/LoanStatusTableSeeder.php',
     'Database\\Seeders\\RolesTableSeeder' => $baseDir . '/database/seeders/RolesTableSeeder.php',
     'Database\\Seeders\\UsersTableSeeder' => $baseDir . '/database/seeders/UsersTableSeeder.php',
-    'Database\\seeders\\CategoriesTableSeeder' => $baseDir . '/database/seeders/CategoriesTableSeeder.php',
     'DateError' => $vendorDir . '/symfony/polyfill-php83/Resources/stubs/DateError.php',
     'DateException' => $vendorDir . '/symfony/polyfill-php83/Resources/stubs/DateException.php',
     'DateInvalidOperationException' => $vendorDir . '/symfony/polyfill-php83/Resources/stubs/DateInvalidOperationException.php',

@@ -94,3 +94,6 @@ Route::get('dashboard', function () {
     }
     return redirect()->route('login');
 })->name('dashboard');
+
+
+//hallo bla bla
